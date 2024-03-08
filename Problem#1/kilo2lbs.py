@@ -1,5 +1,5 @@
 def kilo_to_pounds(kilos):
-    # This statement intentionally has an error. 
+    # Corrected the calculation by multiplying kilos by 2.204
     return (kilos * 2.204)
 
 
